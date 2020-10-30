@@ -1,0 +1,10 @@
+C:\Users\Kanika\source\repos\Practice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kanika\source\repos\Practice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kanika\source\repos\Practice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Kanika\source\repos\Practice\bin\Debug\netcoreapp3.1\Practice.exe
+C:\Users\Kanika\source\repos\Practice\obj\Debug\netcoreapp3.1\Practice.csprojAssemblyReference.cache
+C:\Users\Kanika\source\repos\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfoInputs.cache
+C:\Users\Kanika\source\repos\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfo.cs
+C:\Users\Kanika\source\repos\Practice\obj\Debug\netcoreapp3.1\Practice.RazorTargetAssemblyInfo.cache
+C:\Users\Kanika\source\repos\Practice\obj\Debug\netcoreapp3.1\staticwebassets\Practice.StaticWebAssets.Manifest.cache
+C:\Users\Kanika\source\repos\Practice\obj\Debug\netcoreapp3.1\staticwebassets\Practice.StaticWebAssets.xml
